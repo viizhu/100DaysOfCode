@@ -16,3 +16,11 @@
 **Thoughts:** Completed JS Drum Kit, learned about using ES6 back ticks to call variables within a string, key events, playing audio, and listening for audio end events. William didn't tell me about making commit histories, so there's no history here. But maybe next week we will.
 
  **Link to work:** [Javascript30](https://courses.wesbos.com/account)
+
+### Day 2: July 28, 2017
+
+**Today's Progress:** Completed day 2 of Wes Bos' Javascript30 challenge
+
+**Thoughts:** Managed to write a little of it myself this time, and had some commit history for Git. Had a bit of a hard time mathing the hours into degrees to show up on the clock, but otherwise it actually wasn't too bad.
+
+ **Link to work:** [Javascript30](https://courses.wesbos.com/account)
