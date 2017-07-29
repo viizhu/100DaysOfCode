@@ -26,7 +26,7 @@
  **Link to work:** [Javascript30](https://courses.wesbos.com/account)
                    [VickyZhu.com](http://www.vickyzhu.com)
 
-### Day 2: July 29, 2017
+### Day 3: July 29, 2017
 
 **Today's Progress:** Completed day 3 of Wes Bos' Javascript30 challenge
 
