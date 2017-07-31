@@ -33,3 +33,11 @@
 **Thoughts:** Learned about css variables. Will have to spend some more time looking into them, but they look super nifty!
 
  **Link to work:** [Javascript30](https://courses.wesbos.com/account)
+
+### Day 4: July 30, 2017
+
+**Today's Progress:** Completed day 4 of Wes Bos' Javascript30 challenge
+
+**Thoughts:** Worked with arrays! I completed some of the exercises by myself and needed help on others.
+
+**Link to work:** [Javascript30](https://courses.wesbos.com/account)
