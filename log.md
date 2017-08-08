@@ -43,3 +43,10 @@
 **Thoughts:** Took a short break to go on a work trip. Now that I'm back, going back to a daily schedule once more.
 
 **Link to work:** [Things I'm Learning: Git and GitHub](http://www.vickerdoodle.com/2017/08/06/things-im-learning-git-and-github/)
+
+### Day 6: August 6, 2017
+**Today's Progress:** Completed day 5 of Wes Bos' Javascript30 challenge
+
+**Thoughts:** Reviewing my knowledge of Flexbox and added some Javascript learning in the mix.
+
+**Link to work:** [Javascript30](https://courses.wesbos.com/account)
