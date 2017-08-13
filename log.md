@@ -50,3 +50,10 @@
 **Thoughts:** Reviewing my knowledge of Flexbox and added some Javascript learning in the mix.
 
 **Link to work:** [Javascript30](https://courses.wesbos.com/account)
+
+### Day 7: August 13, 2017
+**Today's Progress:** tested different logos and layouts for my portfolio and personal business cards
+
+**Thoughts:** In personal life news, we got a new kitten. So I took a long break from coding to help the kitten settle in and help our puppy get used to not being an only furchild anymore. Getting back into things slowly by working on my portfolio. Trying to figure out a nice logo to go with my "personal brand" and also a clean layout.
+
+**Link to work:** [VickyZhu.Com](https://www.vickyzhu.com)
