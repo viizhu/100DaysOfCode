@@ -57,3 +57,10 @@
 **Thoughts:** In personal life news, we got a new kitten. So I took a long break from coding to help the kitten settle in and help our puppy get used to not being an only furchild anymore. Getting back into things slowly by working on my portfolio. Trying to figure out a nice logo to go with my "personal brand" and also a clean layout.
 
 **Link to work:** [VickyZhu.Com](https://www.vickyzhu.com)
+
+### Day 8: August 14, 2017
+**Today's Progress:** Settled on a layout for portfolio
+
+**Thoughts:** I think I'm on the right path now for the portfolio. Going to continue coding it and seeing where it takes me. I'm playing with responsive flexbox right now, but I'm not sure if it would be that beneficial since portfolios are so image heavy? For right now though, it'll be responsive!
+
+**Link to work:** [VickyZhu.Com](https://www.vickyzhu.com)
