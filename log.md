@@ -64,3 +64,10 @@
 **Thoughts:** I think I'm on the right path now for the portfolio. Going to continue coding it and seeing where it takes me. I'm playing with responsive flexbox right now, but I'm not sure if it would be that beneficial since portfolios are so image heavy? For right now though, it'll be responsive!
 
 **Link to work:** [VickyZhu.Com](https://www.vickyzhu.com)
+
+### Day 9: August 16, 2017
+**Today's Progress:** I think I'm good with this new layout! \o/
+
+**Thoughts:** I think I'm finally settled on a new layout! Though I may have to make an about me page with this new layout...  I like this new layout but I just realized that I can't do everything in one page if I go with this. Decisions decisions...
+
+**Link to work:** [VickyZhu.Com](https://www.vickyzhu.com)
