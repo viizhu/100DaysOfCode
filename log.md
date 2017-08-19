@@ -71,3 +71,10 @@
 **Thoughts:** I think I'm finally settled on a new layout! Though I may have to make an about me page with this new layout...  I like this new layout but I just realized that I can't do everything in one page if I go with this. Decisions decisions...
 
 **Link to work:** [VickyZhu.Com](https://www.vickyzhu.com)
+
+### Day 10: August 18, 2017
+**Today's Progress:** Taking advantage of free weekend at Code School!
+
+**Thoughts:** Going for the JavaScript course :)
+
+**Link to work:** [CodeSchool](https://www.codeschool.com/)
