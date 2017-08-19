@@ -78,3 +78,10 @@
 **Thoughts:** Going for the JavaScript course :)
 
 **Link to work:** [CodeSchool](https://www.codeschool.com/)
+
+### Day 11: August 19, 2017
+**Today's Progress:** Taking advantage of free weekend at Code School!
+
+**Thoughts:** Fnished through part 2 of the Javascript roadtrip!
+
+**Link to work:** [CodeSchool](https://www.codeschool.com/)
