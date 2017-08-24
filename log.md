@@ -85,3 +85,10 @@
 **Thoughts:** Fnished through part 2 of the Javascript roadtrip!
 
 **Link to work:** [CodeSchool](https://www.codeschool.com/)
+
+### Day 12: August 24, 2017
+**Today's Progress:** Minor code tweaks
+
+**Thoughts:** Blog needed some updating. Mostly fixing up margins and trying to get things to look more uniform.
+
+**Link to work:** [Vickerdoodle](http://www.vickerdoodle.com)
