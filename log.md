@@ -92,3 +92,10 @@
 **Thoughts:** Blog needed some updating. Mostly fixing up margins and trying to get things to look more uniform.
 
 **Link to work:** [Vickerdoodle](http://www.vickerdoodle.com)
+
+### Day 13: August 28, 2017
+**Today's Progress:** Playing around with portfolio ideas and layouts
+
+**Thoughts:** It keeps changing. I have an idea of what I like, but not sure how to make this responsive just yet.
+
+**Link to work:** [VickyZhu.Com](http://www.vickyzhu.com)
