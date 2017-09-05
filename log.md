@@ -99,3 +99,10 @@
 **Thoughts:** It keeps changing. I have an idea of what I like, but not sure how to make this responsive just yet.
 
 **Link to work:** [VickyZhu.Com](http://www.vickyzhu.com)
+
+### Day 14: August 30, 2017
+**Today's Progress:** Helped William code a high-low game for CodeLoft
+
+**Thoughts:** It was fun to talk through it with someone. I didn't actually physically code anything, but I did dictate for him to code. Guess that's what pair programming is :D
+
+**Link to work:** [GitHub](https://github.com/viizhu/100-days-of-code/blob/master/highlow.html)
