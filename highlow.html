@@ -1,0 +1,25 @@
+<html>
+<head>
+  <script>
+    var number = Math.round(Math.random()*100);
+
+    var response = prompt("Guess a number between 1 and 100");
+
+    while (response != number) {
+      if (response === null) {
+        break;
+      } else if (response > number) {
+        response = prompt("Too high. Guess again!");
+      } else if (response < number) {
+        response = prompt("Too low. Guess again!");
+      }
+    }
+
+    if (response === number || response != null) {
+      alert("Great job, you got the number! Hooray!");
+    }
+  </script>
+</head>
+<body>
+</body>
+</html>
