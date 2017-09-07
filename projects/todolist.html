@@ -1,23 +1,31 @@
 <html>
   <head>
     <script>
+      function addToList() {
+        var listElement = document.getElementById("list");
+        var todoText = document.getElementById("item").value;
+        var newListItem = document.createElement("li");
+
+        newListItem.appendChild(document.createTextNode(todoText));
+
+        listElement.appendChild(newListItem);
+      }
     </script>
   </head>
 
   <body>
     <h1>TO DO</h1>
 
-    <div>
-      <input type="checkbox"></input>
-      <input class="todo"></input>
-    </div>
-
-    <div>
+    <div id="add-new">
+      <input id="item"></input>
       <input
         type="button"
-        value="New"
-        onclick="">
+        value="Add"
+        onclick="addToList()">
       </input>
     </div>
+
+    <ul id="list">
+    </ul>
   </body>
 </html>
