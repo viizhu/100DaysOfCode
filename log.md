@@ -105,4 +105,12 @@
 
 **Thoughts:** It was fun to talk through it with someone. I didn't actually physically code anything, but I did dictate for him to code. Guess that's what pair programming is :D
 
-**Link to work:** [GitHub](https://github.com/viizhu/100-days-of-code/blob/master/highlow.html)
+**Link to work:** [GitHub](https://github.com/viizhu/100-days-of-code/blob/master/projects/highlow.html)
+
+
+### Day 15: September 6, 2017
+**Today's Progress:** To Do List using JavaScript
+
+**Thoughts:** Peer programming with William on 3 different versions of a To Do list
+
+**Link to work:** [GitHub](https://github.com/viizhu/100-days-of-code/blob/master/projects/todolist.html)
