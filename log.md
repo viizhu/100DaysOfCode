@@ -114,3 +114,10 @@
 **Thoughts:** Pair programming with William on 3 different versions of a To Do list
 
 **Link to work:** [GitHub](https://github.com/viizhu/100-days-of-code/blob/master/projects/todolist.html)
+
+### Day 16: September 8, 2017
+**Today's Progress:** Started on creating a meal prep site.
+
+**Thoughts:** Researching how to join mySQL databases for the ingredients list of each recipe
+
+**Link to work:** none
