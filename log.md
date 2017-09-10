@@ -121,3 +121,10 @@
 **Thoughts:** Researching how to join mySQL databases for the ingredients list of each recipe
 
 **Link to work:** none
+
+### Day 17: September 9, 2017
+**Today's Progress:** Wrote mySQL tables for meal prep setAttribute
+
+**Thoughts:** Created 3 tables: Recipes, Ingredients, and Recipe_Needs which should connect each recipe ID with each Ingredient ID.
+
+**Link to work:** [Meal Prep](https://github.com/viizhu/100DaysOfCode/tree/master/projects/mealplanning)
