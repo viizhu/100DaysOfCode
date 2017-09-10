@@ -1,0 +1,25 @@
+CREATE DATABASE MealPlanning;
+
+CREATE TABLE Recipes (
+    ID int NOT NULL AUTO_INCREMENT,
+    RecipeName varchar(255) NOT NULL,
+    Instructions longtext NOT NULL,
+    Servings int,
+    Calories int,
+    PRIMARY KEY (ID)
+);
+
+CREATE TABLE Ingredients (
+    ID int NOT NULL AUTO_INCREMENT,
+    Ingredient varchar(255) NOT NULL,
+    Unit varchar(255),
+    PRIMARY KEY (ID),
+    FOREIGN KEY (PersonID) REFERENCES Persons(PersonID)
+);
+
+CREATE TABLE Recipe_Needs (
+    RecipeID int,
+    IngredientID int
+    FOREIGN KEY (RecipeID) REFERENCES Recipes(ID),
+    FOREIGN KEY (IngredientID) REFERENCES Ingredients(ID)
+);
