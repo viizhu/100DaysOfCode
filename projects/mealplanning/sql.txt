@@ -1,5 +1,3 @@
-CREATE DATABASE MealPlanning;
-
 CREATE TABLE Recipes (
     ID int NOT NULL AUTO_INCREMENT,
     RecipeName varchar(255) NOT NULL,
@@ -23,3 +21,5 @@ CREATE TABLE Recipe_Needs (
     FOREIGN KEY (RecipeID) REFERENCES Recipes(ID),
     FOREIGN KEY (IngredientID) REFERENCES Ingredients(ID)
 );
+
+b#^Rz=];q%qF

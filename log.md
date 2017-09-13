@@ -128,3 +128,10 @@
 **Thoughts:** Created 3 tables: Recipes, Ingredients, and Recipe_Needs which should connect each recipe ID with each Ingredient ID.
 
 **Link to work:** [Meal Prep](https://github.com/viizhu/100DaysOfCode/tree/master/projects/mealplanning)
+
+### Day 18: September 12, 2017
+**Today's Progress:** Working on revamping portfolio so I have a place to put the meal prep app
+
+**Thoughts:** Trying to learn how to do a hamburger menu
+
+**Link to work:** nothing so far
