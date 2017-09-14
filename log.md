@@ -135,3 +135,10 @@
 **Thoughts:** Trying to learn how to do a hamburger menu
 
 **Link to work:** nothing so far
+
+### Day 19: September 13, 2017
+**Today's Progress:** Working on revamping portfolio so I have a place to put the meal prep app
+
+**Thoughts:** Scrapped the hamburger menu idea for flexbox. Next step is to work out the layout and how I want the pages to look.
+
+**Link to work:** nothing so far
