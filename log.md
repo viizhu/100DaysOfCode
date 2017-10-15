@@ -149,3 +149,20 @@
 **Thoughts:** Found a good layout for the portfolio, and so now to craft the other pages
 
 **Link to work:** nothing so far
+
+### HIATUS
+
+### Day 21: October 14, 2017
+**Today's Progress:** Women Who Code Hackathon!
+
+**Thoughts:** Working on a meal prep app
+
+**Link to work:** [Menuize](http://www.wwcodehackathon.com/)
+
+
+### Day 22: October 15, 2017
+**Today's Progress:** Women Who Code Hackathon!
+
+**Thoughts:** Working on a meal prep app
+
+**Link to work:** [Menuize](http://www.wwcodehackathon.com/)
