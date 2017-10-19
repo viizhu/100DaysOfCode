@@ -172,3 +172,10 @@
 **Thoughts:** Finally got around to writing about the hackathon
 
 **Link to work:** [Vickerdoodle](http://www.vickerdoodle.com/2017/10/17/my-first-hackathon/)
+
+### Day 24: October 18, 2017
+**Today's Progress:** Reading You Don't Know JS
+
+**Thoughts:** Up & Going: Chapter 1
+
+**Link to work:** [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
