@@ -179,3 +179,10 @@
 **Thoughts:** Up & Going: Chapter 1
 
 **Link to work:** [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+
+### Day 25: October 23, 2017
+**Today's Progress:** Update portfoli9
+
+**Thoughts:** Added some things, fixed flexbox, also added google analytics
+
+**Link to work:** [VickyZhu.Com](http://www.vickyzhu.com)
