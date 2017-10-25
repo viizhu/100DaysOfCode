@@ -6,6 +6,7 @@
 **Thoughts:** Struggled with connecting local computer to GitHub. But I think I get the basics now. At the very least, I'm able to update this sheet and then push to GitHub, so that's a win.
 
 **Link to work:** [An Intro to Git and GitHub for Beginners](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+                  |
                   [Git Tutorial](https://try.github.io/levels/1/challenges/1)
 
 ### Day 1: July 27, 2017
@@ -21,7 +22,8 @@
 **Thoughts:** Managed to write a little of it myself this time, and had some commit history for Git. Had a bit of a hard time mathing the hours into degrees to show up on the clock, but otherwise it actually wasn't too bad. Also updated my portfolio with recent layouts.
 
  **Link to work:** [Javascript30](https://courses.wesbos.com/account)
-                   [VickyZhu.com](http://www.vickyzhu.com)
+                  |
+                  [VickyZhu.com](http://www.vickyzhu.com)
 
 ### Day 3: July 29, 2017
 **Today's Progress:** Completed day 3 of Wes Bos' Javascript30 challenge
@@ -193,4 +195,5 @@
 **Thoughts:** You Don't Know JS chapter (Up & Going: Chapter2) was filled with information, will have to go back and reread it at a later date. Now half-way through the jQuery stuff at freeCodeCamp
 
 **Link to work:** [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
-[freeCodeCamp](https://www.freecodecamp.org)
+                  |
+                  [freeCodeCamp](https://www.freecodecamp.org)
