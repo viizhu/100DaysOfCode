@@ -181,8 +181,16 @@
 **Link to work:** [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 
 ### Day 25: October 23, 2017
-**Today's Progress:** Update portfoli9
+**Today's Progress:** Update portfolio
 
 **Thoughts:** Added some things, fixed flexbox, also added google analytics
 
 **Link to work:** [VickyZhu.Com](http://www.vickyzhu.com)
+
+### Day 26: October 25, 2017
+**Today's Progress:** Read You Don't Know JS and completed HTML and Bootstrap courses on freeCodeCamp
+
+**Thoughts:** You Don't Know JS chapter (Up & Going: Chapter2) was filled with information, will have to go back and reread it at a later date. Now half-way through the jQuery stuff at freeCodeCamp
+
+**Link to work:** [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+[freeCodeCamp](https://www.freecodecamp.org)
