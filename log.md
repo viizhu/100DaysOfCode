@@ -186,3 +186,10 @@
 **Thoughts:** Added some things, fixed flexbox, also added google analytics
 
 **Link to work:** [VickyZhu.Com](http://www.vickyzhu.com)
+
+### Day 26: October 29, 2017
+**Today's Progress:** Completed Hacktoberfest!
+
+**Thoughts:** Learned how to do pull requests. Kind of. Still a little confused about pushing in git for projects that aren't mine own.
+
+**Link to work:** [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
