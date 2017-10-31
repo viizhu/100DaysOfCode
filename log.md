@@ -197,3 +197,17 @@
 **Link to work:** [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
                   |
                   [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 27: October 29, 2017
+**Today's Progress:** Hacktoberfest commits
+
+**Thoughts:** Learned how to do pull requests. Kind of. Still a little confused about pushing in git for projects that aren't mine own.
+
+**Link to work:** [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+
+### Day 28: October 30, 2017
+**Today's Progress:** Finished JQuery and projects for freeCodeCamp
+
+**Thoughts:** Not sure how detailed freeCodeCamp classes are, so may have to go back to take closer look at jQuery at a later date. But I got a pretty good intro.
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
