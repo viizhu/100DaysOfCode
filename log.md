@@ -211,3 +211,10 @@
 **Thoughts:** Not sure how detailed freeCodeCamp classes are, so may have to go back to take closer look at jQuery at a later date. But I got a pretty good intro.
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 29: October 31, 2017
+**Today's Progress:** More freeCodeCamp stuff
+
+**Thoughts:** Also spent some time reading up on flexbox and tried to make it work for IE
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
