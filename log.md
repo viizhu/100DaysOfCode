@@ -218,3 +218,10 @@
 **Thoughts:** Also spent some time reading up on flexbox and tried to make it work for IE
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 30: November 1, 2017
+**Today's Progress:** More freeCodeCamp stuff
+
+**Thoughts:** Going through JavaScript now. Mostly things I already know, so I get to go pretty quickly 
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
