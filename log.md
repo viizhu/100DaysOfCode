@@ -232,3 +232,10 @@
 **Thoughts:** Still going through the JavaScript stuff. Hoping I'll be done with JavaScript by tomorrow and moving on to the next section!
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 32: November 3, 2017
+**Today's Progress:** More freeCodeCamp stuff
+
+**Thoughts:** Amost done with JavaScript! I've slowed down a bit because I'm now hitting the harder stuff.
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
