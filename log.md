@@ -239,3 +239,10 @@
 **Thoughts:** Amost done with JavaScript! I've slowed down a bit because I'm now hitting the harder stuff.
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 33: November 6, 2017
+**Today's Progress:** More freeCodeCamp stuff
+
+**Thoughts:** Focusing more on the JavaScript to really understand everything before moving on.
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
