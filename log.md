@@ -222,7 +222,7 @@
 ### Day 30: November 1, 2017
 **Today's Progress:** More freeCodeCamp stuff
 
-**Thoughts:** Going through JavaScript now. Mostly things I already know, so I get to go pretty quickly 
+**Thoughts:** Going through JavaScript now. Mostly things I already know, so I get to go pretty quickly
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
 
@@ -244,5 +244,12 @@
 **Today's Progress:** More freeCodeCamp stuff
 
 **Thoughts:** Focusing more on the JavaScript to really understand everything before moving on.
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 34: November 7, 2017
+**Today's Progress:** More freeCodeCamp stuff
+
+**Thoughts:** Finally finished JavaScript section!
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
