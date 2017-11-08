@@ -253,3 +253,10 @@
 **Thoughts:** Finally finished JavaScript section!
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 35: November 8, 2017
+**Today's Progress:** Started a document to keep track of JavaScript information
+
+**Thoughts:** Went back through freeCodeCamp and a few other resources to write down commonly used phrases and functions
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
