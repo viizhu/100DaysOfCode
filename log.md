@@ -260,3 +260,10 @@
 **Thoughts:** Went back through freeCodeCamp and a few other resources to write down commonly used phrases and functions
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 36: November 8, 2017
+**Today's Progress:** Moving on in freeCodeCamp
+
+**Thoughts:** Object Oriented and Functional Programming time! (What does that even mean?) Also taking a short hiatus this weekend to spend time with my college roommate who's visiting
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
