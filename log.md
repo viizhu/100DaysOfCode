@@ -267,3 +267,10 @@
 **Thoughts:** Object Oriented and Functional Programming time! (What does that even mean?) Also taking a short hiatus this weekend to spend time with my college roommate who's visiting
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 37: November 12, 2017
+**Today's Progress:** More freeCodeCamp
+
+**Thoughts:** Object Oriented and Functional Programming continueds
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
