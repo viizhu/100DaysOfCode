@@ -271,6 +271,13 @@
 ### Day 37: November 12, 2017
 **Today's Progress:** More freeCodeCamp
 
-**Thoughts:** Object Oriented and Functional Programming continueds
+**Thoughts:** Object Oriented and Functional Programming continues
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 38: November 13, 2017
+**Today's Progress:** Continuing my streak with more freeCodeCamp!
+
+**Thoughts:** Object Oriented and Functional Programming finished
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
