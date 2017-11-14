@@ -281,3 +281,10 @@
 **Thoughts:** Object Oriented and Functional Programming finished
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 39: November 14, 2017
+**Today's Progress:** Continuing my streak with more freeCodeCamp!
+
+**Thoughts:** Moving on to basic algorithm scripting and doing some tests. Some of these are taking a pretty long time to solve.
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
