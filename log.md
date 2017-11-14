@@ -285,6 +285,8 @@
 ### Day 39: November 14, 2017
 **Today's Progress:** Continuing my streak with more freeCodeCamp!
 
-**Thoughts:** Moving on to basic algorithm scripting and doing some tests. Some of these are taking a pretty long time to solve.
+**Thoughts:** Moving on to basic algorithm scripting and doing some tests. Some of these are taking a pretty long time to solve. I've decided to copy some of the exercises I do on freeCodeCamp to a Git Hub repository to keep a record of them.
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+                   |
+                   [Repository](https://github.com/viizhu/freeCodeCamp)
