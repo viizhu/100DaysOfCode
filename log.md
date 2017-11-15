@@ -289,4 +289,13 @@
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
                    |
-                   [Repository](https://github.com/viizhu/freeCodeCamp)
+                   [Repository](https://github.com/viizhu/freeCodeCamp)
+                   
+### Day 40: November 15, 2017
+**Today's Progress:** More freeCodeCamp exercises
+
+**Thoughts:** Creating the freeCodeCamp repository was very helpful to keep track of things and have somewhere to look back on.
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+                   |
+                   [Repository](https://github.com/viizhu/freeCodeCamp)
