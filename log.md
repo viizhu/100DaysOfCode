@@ -303,7 +303,7 @@
 ### Day 41: November 16, 2017
 **Today's Progress:** More freeCodeCamp exercises
 
-**Thoughts:** Completd the basic algorithm scripting exercises!
+**Thoughts:** Still working through the basic algorithm scripting exercises. I thought I'd finish them but I may need one more day.
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
                    |
