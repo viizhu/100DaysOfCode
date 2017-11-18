@@ -317,3 +317,10 @@
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
                    |
                    [Repository](https://github.com/viizhu/freeCodeCamp)
+
+### Day 43: November 18, 2017
+**Today's Progress:** Global Day of CodeRetreat
+
+**Thoughts:** Participated in the Global Day of CodeRetreat. Coded a lot, but nothing to show because we were asked to throw away the code after each session!
+
+**Link to work:**  [CodeRetreat](http://coderetreat.org/)
