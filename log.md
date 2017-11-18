@@ -308,3 +308,12 @@
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
                    |
                    [Repository](https://github.com/viizhu/freeCodeCamp)
+
+### Day 42: November 17, 2017
+**Today's Progress:** More freeCodeCamp exercises
+
+**Thoughts:** Finished all the basic algorithm scripting exercises. The last few took longer than expected. Since it's free weekend on Code School, I'll probably spend the rest of this weekend doing that and then come back to freeCodeCamp on Monday.
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+                   |
+                   [Repository](https://github.com/viizhu/freeCodeCamp)
