@@ -324,3 +324,10 @@
 **Thoughts:** Participated in the Global Day of CodeRetreat. Coded a lot, but nothing to show because we were asked to throw away the code after each session!
 
 **Link to work:**  [CodeRetreat](http://coderetreat.org/)
+
+### Day 44: November 19, 2017
+**TOday's Progress:** Code School is free today!
+
+**Thoughts:** I continued from where I left off last time in the JavaScript lessons. I really like their videos.
+
+**Link to work:** [Code School](https://www.codeschool.com)
