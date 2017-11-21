@@ -326,8 +326,15 @@
 **Link to work:**  [CodeRetreat](http://coderetreat.org/)
 
 ### Day 44: November 19, 2017
-**TOday's Progress:** Code School is free today!
+**Today's Progress:** Code School is free today!
 
 **Thoughts:** I continued from where I left off last time in the JavaScript lessons. I really like their videos.
 
 **Link to work:** [Code School](https://www.codeschool.com)
+
+### Day 45: November 21, 2017
+**Today's Progress:** Back to freeCodeCamp exercises
+
+**Thoughts:** Moving on to JSON API and Ajax
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
