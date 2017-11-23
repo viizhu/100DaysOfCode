@@ -338,3 +338,10 @@
 **Thoughts:** Moving on to JSON API and Ajax
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 46: November 22, 2017
+**Today's Progress:** freeCodeCamp exercises
+
+**Thoughts:** More with JSON API and Ajax. Starting to get into territories that I'm not that familiar with, so I will probably be slowly to progress, just so I can make sure I have everything down before moving on.
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
