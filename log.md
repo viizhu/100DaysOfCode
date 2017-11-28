@@ -352,3 +352,12 @@
 **Thoughts:** Took a break for Thanksgiving, and now I'm back at it again. Finished up JSON API and Ajax. Moving on to the intermediate front end development projects.
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+                   |
+                   [CodePen Project](https://codepen.io/viizhu/pen/gXjzpB)
+
+### Day 48: November 27, 2017
+**Today's Progress:** freeCodeCamp exercises
+
+**Thoughts:** Slowly working through the projects. Didn't get as far in the weather app one as I'd have liked to.
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
