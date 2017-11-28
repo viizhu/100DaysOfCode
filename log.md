@@ -361,3 +361,11 @@
 **Thoughts:** Slowly working through the projects. Didn't get as far in the weather app one as I'd have liked to.
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 49: November 28, 2017
+**Today's Progress:** freeCodeCamp exercises; went back to the quote generator
+
+**Thoughts:** Went back to my random code generator and added a tweet button. Working with APIs for the first time was kind of confusing, but I'm glad I finally got it to work!
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+                  | [CodePen Project](https://codepen.io/viizhu/pen/gXjzpB)
