@@ -369,3 +369,10 @@
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
                   | [CodePen Project](https://codepen.io/viizhu/pen/gXjzpB)
+
+### Day 50: November 29, 2017
+**Today's Progress:** freeCodeCamp exercises
+
+**Thoughts:** Working through local weather app
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
