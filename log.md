@@ -376,3 +376,10 @@
 **Thoughts:** Working through local weather app
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 51: November 30, 2017
+**Today's Progress:** freeCodeCamp exercises
+
+**Thoughts:** Working through local weather app; having trouble with how to toggle between different temperature units.
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
