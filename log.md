@@ -383,3 +383,10 @@
 **Thoughts:** Working through local weather app; having trouble with how to toggle between different temperature units.
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 52: December 3, 2017
+**Today's Progress:** freeCodeCamp exercises
+
+**Thoughts:** Still working on the weather app. Finished everything except for the toggling.
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
