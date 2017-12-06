@@ -397,4 +397,5 @@
 **Thoughts:** I had a lot of issues getting the toggle to work. Finally figured it out!
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
-                   | [CodePen Project](https://codepen.io/viizhu/full/vWQJYy/)
+                  |
+                  [CodePen Project](https://codepen.io/viizhu/full/vWQJYy/)
