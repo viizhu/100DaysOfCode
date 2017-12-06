@@ -390,3 +390,11 @@
 **Thoughts:** Still working on the weather app. Finished everything except for the toggling.
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 53: December 6, 2017
+**Today's Progress:** freeCodeCamp exercises; finished weather app
+
+**Thoughts:** I had a lot of issues getting the toggle to work. Finally figured it out!
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+                   | [CodePen Project](https://codepen.io/viizhu/full/vWQJYy/)
