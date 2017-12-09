@@ -397,5 +397,11 @@
 **Thoughts:** I had a lot of issues getting the toggle to work. Finally figured it out!
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
-                  |
-                  [CodePen Project](https://codepen.io/viizhu/full/vWQJYy/)
+                  | [CodePen Project](https://codepen.io/viizhu/full/vWQJYy/)  
+
+### Day 54: December 7, 2017
+**Today's Progress:** Attended MailChimp Gives (Feed)Back!
+
+**Thoughts:** Attended a really great event at MailChimp about careers, resumes, and interviews in tech.
+
+**Link to work:**  [MailChimp Gives (Feed)Back](https://www.eventbrite.com/e/mailchimp-gives-feedback-tickets-40185812848)
