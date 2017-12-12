@@ -405,3 +405,10 @@
 **Thoughts:** Attended a really great event at MailChimp about careers, resumes, and interviews in tech.
 
 **Link to work:**  [MailChimp Gives (Feed)Back](https://www.eventbrite.com/e/mailchimp-gives-feedback-tickets-40185812848)
+
+### Day 55: December 11, 2017
+**Today's Progress:** freeCodeCamp exercises; onto the next exercise
+
+**Thoughts:** December has been a little wonky with snow days and holiday stuff. Finally getting to working on the next freeCodeCamp exercise: creating a Wikipedia viewer
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
