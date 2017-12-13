@@ -412,3 +412,10 @@
 **Thoughts:** December has been a little wonky with snow days and holiday stuff. Finally getting to working on the next freeCodeCamp exercise: creating a Wikipedia viewer
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 56: December 12, 2017
+**Today's Progress:** freeCodeCamp exercises: Wikipedia viewer
+
+**Thoughts:** Studied the Wikipedia api and spent some time playing around with it.
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
