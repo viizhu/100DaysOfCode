@@ -419,3 +419,10 @@
 **Thoughts:** Studied the Wikipedia api and spent some time playing around with it.
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 57: December 13, 2017
+**Today's Progress:** freeCodeCamp exercises: Wikipedia viewer
+
+**Thoughts:** More playing around with the Wikipedia API
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
