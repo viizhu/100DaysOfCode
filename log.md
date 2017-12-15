@@ -426,3 +426,10 @@
 **Thoughts:** More playing around with the Wikipedia API
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 58: December 14, 2017
+**Today's Progress:** Codecademy's API Course
+
+**Thoughts:** I realized that I didn't understand utilizing APIs as well as I'd like, so I went back to Codecademy to do some learning.
+
+**Link to work:**  [Codecademy](https://www.codecademy.com/ru/tracks/apis-web)
