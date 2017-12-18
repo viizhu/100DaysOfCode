@@ -433,3 +433,10 @@
 **Thoughts:** I realized that I didn't understand utilizing APIs as well as I'd like, so I went back to Codecademy to do some learning.
 
 **Link to work:**  [Codecademy](https://www.codecademy.com/ru/tracks/apis-web)
+
+### Day 59: December 17, 2017
+**Today's Progress:** freeCodeCamp exercises: Wikipedia viewer
+
+**Thoughts:** Trying to figure out a way to get the search to function.
+
+**Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
