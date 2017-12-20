@@ -440,3 +440,10 @@
 **Thoughts:** Trying to figure out a way to get the search to function.
 
 **Link to work:**  [freeCodeCamp](https://www.freecodecamp.org)
+
+### Day 60: December 19, 2017
+ **Today's Progress:** Took a break from freeCodeCamp to do some Flexbox Zombies
+
+ **Thoughts:** It's so cute!
+
+ **Link to work:** [Flexbox Zombies](https://geddski.teachable.com/courses/)
