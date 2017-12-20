@@ -447,3 +447,10 @@
  **Thoughts:** It's so cute!
 
  **Link to work:** [Flexbox Zombies](https://geddski.teachable.com/courses/)
+
+### Day 61: December 19, 2017
+**Today's Progress:** More Flexbox Zombies
+
+**Thoughts:** They're pretty effective
+
+**Link to work:** [Flexbox Zombies](https://geddski.teachable.com/courses/)
