@@ -461,3 +461,10 @@
 **Thoughts:** The practice has been really great. I'm familiar with Flexbox and have used it before but it's still nice to go through this.
 
 **Link to work:** [Flexbox Zombies](https://geddski.teachable.com/courses/)
+
+### Day 63: December 25, 2017
+**Today's Progress:** More Flexbox Zombies
+
+**Thoughts:** Christmas Zombies!
+
+**Link to work:** [Flexbox Zombies](https://geddski.teachable.com/courses/)
