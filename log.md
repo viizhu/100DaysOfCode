@@ -468,3 +468,10 @@
 **Thoughts:** Christmas Zombies!
 
 **Link to work:** [Flexbox Zombies](https://geddski.teachable.com/courses/)
+
+### Day 64: December 26, 2017
+**Today's Progress:** More Flexbox Zombies
+
+**Thoughts:** Half way done.
+
+**Link to work:** [Flexbox Zombies](https://geddski.teachable.com/courses/)
