@@ -475,3 +475,10 @@
 **Thoughts:** Half way done.
 
 **Link to work:** [Flexbox Zombies](https://geddski.teachable.com/courses/)
+
+### Day 65: January 1, 2018
+**Today's Progress:** More Flexbox Zombies
+
+**Thoughts:** New Years Zombies! :)
+
+**Link to work:** [Flexbox Zombies](https://geddski.teachable.com/courses/)
