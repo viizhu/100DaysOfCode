@@ -482,3 +482,10 @@
 **Thoughts:** New Years Zombies! :)
 
 **Link to work:** [Flexbox Zombies](https://geddski.teachable.com/courses/)
+
+### Day 66: January 2, 2018
+**Today's Progress:** More Flexbox Zombies
+
+**Thoughts:** 75% done
+
+**Link to work:** [Flexbox Zombies](https://geddski.teachable.com/courses/)
