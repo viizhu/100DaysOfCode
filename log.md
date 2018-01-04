@@ -489,3 +489,10 @@
 **Thoughts:** 75% done
 
 **Link to work:** [Flexbox Zombies](https://geddski.teachable.com/courses/)
+
+### Day 67: January 3, 2018
+**Today's Progress:** More Flexbox Zombies
+
+**Thoughts:** Went back to take some notes on previous parts of the exercise
+
+**Link to work:** [Flexbox Zombies](https://geddski.teachable.com/courses/)
