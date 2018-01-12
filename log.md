@@ -13,3 +13,10 @@
 **Thoughts:** It took a little longer than expected because I went back to write up some notes. But I'm glad I did the exercise, because it was a really fun and cute way to learn! Moving on to a Udemy course I purchased a while back.
 
 **Link to work:** [Flexbox Zombies](https://geddski.teachable.com/courses/)
+
+### Day 3: January 11, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** This Udemy course was recommended, so I've started it. The first few lessons are more review because it's mostly HTML/CSS review.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
