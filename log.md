@@ -20,3 +20,10 @@
 **Thoughts:** This Udemy course was recommended, so I've started it. The first few lessons are more review because it's mostly HTML/CSS review.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 4: January 12, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** I could probably skip the first bulk of lessons, but I'm listening to them on 2x the speed partially in case I miss something I didn't know before and partially because it's nice to just get a review. I didn't know there were nifty keyboard shortcuts for text editors, though! So that's really cool to learn.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
