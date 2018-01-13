@@ -27,3 +27,10 @@
 **Thoughts:** I could probably skip the first bulk of lessons, but I'm listening to them on 2x the speed partially in case I miss something I didn't know before and partially because it's nice to just get a review. I didn't know there were nifty keyboard shortcuts for text editors, though! So that's really cool to learn.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 5: January 13, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Got through to intro to CSS. I really liked this one. Even though I'd already known how to do most of this, it's really good to have the explanations as to WHY they're done the way they are.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
