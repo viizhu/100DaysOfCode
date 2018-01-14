@@ -34,3 +34,10 @@
 **Thoughts:** Got through to intro to CSS. I really liked this one. Even though I'd already known how to do most of this, it's really good to have the explanations as to WHY they're done the way they are.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 6: January 14, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Finished through all of CSS, now to review Bootstrap.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
