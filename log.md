@@ -41,3 +41,10 @@
 **Thoughts:** Finished through all of CSS, now to review Bootstrap.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 7: January 15, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Finished Bootstrap course. It was mostly review.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
