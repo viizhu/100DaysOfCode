@@ -48,3 +48,10 @@
 **Thoughts:** Finished Bootstrap course. It was mostly review.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 8: January 16, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Some more Bootstrap review. Wanted to get a good handle on it before moving on to JavaScript.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
