@@ -55,3 +55,10 @@
 **Thoughts:** Some more Bootstrap review. Wanted to get a good handle on it before moving on to JavaScript.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 9: January 17, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Completed the course through JavaScript functions. Next up are arrays and DOM. So far it's mostly been review, so I can speed through a lot of it. But like I said before, it's really nice to get the review and the exercises he gives are helpful in understanding if I actually know the material or not.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
