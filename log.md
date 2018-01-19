@@ -62,3 +62,10 @@
 **Thoughts:** Completed the course through JavaScript functions. Next up are arrays and DOM. So far it's mostly been review, so I can speed through a lot of it. But like I said before, it's really nice to get the review and the exercises he gives are helpful in understanding if I actually know the material or not.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 10: January 18, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Did the section on arrays. Mostly review, still. I did wonder what Array.prototype was, but I couldn't get a clear answer. So making a note here to come back to that once I've completed the JavaScript sections.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
