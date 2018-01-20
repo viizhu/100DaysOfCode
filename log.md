@@ -70,10 +70,16 @@
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
 
-
 ### Day 11: January 19, 2018
 **Today's Progress:** Web Developer Bootcamp Course at Udemy
 
 **Thoughts:** Got through arrays and objects. Things are starting to get more complicated. I'm going to wait to do the DOM stuff because it's starting to get into territories where I'm not as familiar, so I will probably work through the next few sessions slower.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 11: January 19, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Intro to DOM.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
