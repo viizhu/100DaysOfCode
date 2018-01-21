@@ -77,9 +77,16 @@
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
 
-### Day 11: January 19, 2018
+### Day 12: January 20, 2018
 **Today's Progress:** Web Developer Bootcamp Course at Udemy
 
 **Thoughts:** Intro to DOM.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 13: January 21, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Got deeper into DOM. Tomorrow I'll work on the practice score keeper project.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
