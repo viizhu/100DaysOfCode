@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Score Keeper</title>
+  <style type="text/css">
+  </style>
+</head>
+<body>
+
+<h1><span id="playerOne">0</span> to <span id="playerTwo">0</span></h1>
+
+<p>Playing to: <span id="target">5</span></p>
+
+  <input type="number" id="number" value="5">
+  <button id="buttonOne">Player One</button>
+  <button id="buttonTwo">Player Two</button>
+  <button id="reset">Reset</button>
+
+<script type="text/javascript">
+  var playerOne = document.querySelector("#playerOne");
+  var playerTwo = document.querySelector("#playerTwo");
+  var buttonOne = document.querySelector("#buttonOne");
+  var buttonTwo = document.querySelector("#buttonTwo");
+  var reset = document.querySelector("#reset");
+  var target = document.querySelector("#target");
+  var scoreOne = 0;
+  var scoreTwo = 0;
+  var number = document.querySelector("#number");
+  var winColor = "#199321"
+
+  number.addEventListener("change", function() {
+    target.textContent = number.value;
+  });
+
+  buttonOne.addEventListener("click", function () {
+    if(scoreOne < target.textContent && scoreTwo < target.textContent) {
+      scoreOne += 1;
+    }
+    if(scoreOne == target.textContent) {
+      playerOne.style.color = winColor;
+    }
+    playerOne.textContent = scoreOne;
+  });
+
+  buttonTwo.addEventListener("click", function () {
+    if(scoreTwo < target.textContent && scoreOne < target.textContent) {
+      scoreTwo += 1;
+    }
+    if(scoreTwo == target.textContent) {
+      playerTwo.style.color = winColor;
+    }
+    playerTwo.textContent = scoreTwo;
+  });
+
+  reset.addEventListener("click", function() {
+    scoreOne = 0;
+    scoreTwo = 0;
+    playerOne.textContent = scoreOne;
+    playerTwo.textContent = scoreTwo;
+    playerOne.style.color = ""
+    playerTwo.style.color = ""
+  });
+
+</script>
+</body>
+</html>
