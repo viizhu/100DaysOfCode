@@ -31,11 +31,12 @@
 
   number.addEventListener("change", function() {
     target.textContent = number.value;
+    resetGame();
   });
 
   buttonOne.addEventListener("click", function () {
     if(scoreOne < target.textContent && scoreTwo < target.textContent) {
-      scoreOne += 1;
+      scoreOne++;
     }
     if(scoreOne == target.textContent) {
       playerOne.style.color = winColor;
@@ -45,7 +46,7 @@
 
   buttonTwo.addEventListener("click", function () {
     if(scoreTwo < target.textContent && scoreOne < target.textContent) {
-      scoreTwo += 1;
+      scoreTwo++;
     }
     if(scoreTwo == target.textContent) {
       playerTwo.style.color = winColor;
@@ -54,13 +55,17 @@
   });
 
   reset.addEventListener("click", function() {
+    resetGame();
+  });
+
+  function resetGame() {
     scoreOne = 0;
     scoreTwo = 0;
     playerOne.textContent = scoreOne;
     playerTwo.textContent = scoreTwo;
     playerOne.style.color = ""
     playerTwo.style.color = ""
-  });
+  }
 
 </script>
 </body>
