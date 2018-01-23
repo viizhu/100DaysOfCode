@@ -90,3 +90,10 @@
 **Thoughts:** Got deeper into DOM. Tomorrow I'll work on the practice score keeper project.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 14: January 22, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Completed the score keeper project by myself before watching the solution video.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
