@@ -1,20 +1,69 @@
 body {
 	background-color: #232323;
+  color: white;
+	font-family: "Montserrat", "Avenir";
+  text-align: center;
+  margin: 0 auto;
+  text-transform: uppercase;
+}
+
+#colorDisplay {
+  font-size: 1.5em;
+  display: block;
 }
 
 .square {
 	width: 30%;
-	background: purple;
+	background: steelblue;
 	padding-bottom: 30%;
 	float: left;
 	margin: 1.66%;
+  border-radius: 10%;
 }
 
 #container {
 	margin: 0px auto;
+  padding: 10px 0;
 	max-width: 600px;
 }
 
 h1 {
-	color: white;
+  background: steelblue;
+  margin: 0;
+  padding: 25px 0;
+}
+
+#nav {
+  background: #fff;
+  margin: 0 auto;
+  padding: 0;
+  height: 30px;
+}
+
+button {
+  color: steelblue;
+  text-decoration: none;
+  font-weight: bold;
+  border: 0;
+  margin: 0;
+  padding: 0 10px;
+  font-size: 1em;
+  height: 100%;
+}
+
+button:hover {
+  background: steelblue;
+  color: #fff;
+}
+
+#message {
+  padding: 0 8%;
+  color: #000;
+  font-weight: normal;
+  text-transform: none;
+}
+
+.selected {
+  background-color: steelblue;
+  color: #ffffff;
 }
