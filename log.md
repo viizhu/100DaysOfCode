@@ -104,3 +104,10 @@
 **Thoughts:** Started the Color Game app. I've decided to try it all myself before listening to how he does it. I downloaded the barebones HTML and CSS to begin and then coded all the JavaScript. Next step is making everything look pretty and creating the navbar/links.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 16: January 24, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** More working on the color game app. I've got most of it done, but am stuck on switching between easy and hard levels.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
