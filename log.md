@@ -97,3 +97,10 @@
 **Thoughts:** Completed the score keeper project by myself before watching the solution video.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 15: January 23, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Started the Color Game app. I've decided to try it all myself before listening to how he does it. I downloaded the barebones HTML and CSS to begin and then coded all the JavaScript. Next step is making everything look pretty and creating the navbar/links.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
