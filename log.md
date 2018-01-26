@@ -111,3 +111,10 @@
 **Thoughts:** More working on the color game app. I've got most of it done, but am stuck on switching between easy and hard levels.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 17: January 25, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Completed the color game app with some help. Going to watch the solution tomorrow and see how he did it.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
