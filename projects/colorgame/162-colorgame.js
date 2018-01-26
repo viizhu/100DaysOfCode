@@ -1,34 +1,93 @@
 var colorDisplay = document.querySelector("#colorDisplay");
-var square = document.querySelectorAll(".square");
-var x = Math.floor(Math.random() * square.length);
 var result = document.querySelector("#result");
 var h1 = document.querySelector("h1");
 var restart = document.querySelector("#restart");
 var message = document.querySelector("#message");
 var levelEasy = document.querySelector("#levelEasy");
 var levelHard = document.querySelector("#levelHard");
+var hard = true;
+var div = document.querySelectorAll("#container div");
+var win = "";
 
-for(i = 0; i < square.length; i++) {
-  square[i].style.background = "RGB(" + Math.floor(Math.random() * 255) + ", " + Math.floor(Math.random() * 255) + ", " + Math.floor(Math.random() * 255) + ")";
-
-  if(i === x) {
-    square[x].addEventListener("click", function() {
+for(k = 0; k < div.length; k++) {
+  div[k].addEventListener("click", function(){
+    if(this.style.background === win) {
+      var square = document.querySelectorAll(".square");
       for(j = 0; j < square.length; j++) {
-        square[j].style.background = square[x].style.background;
+        square[j].style.background = win;
       }
-      h1.style.background = square[x].style.background;
+      h1.style.background = win;
       message.textContent = "Correct!";
-    });
-  } else {
-    square[i].addEventListener("click", function() {
+    } else {
       this.style.background = "#232323"
       message.textContent = "Try again";
-    });
+    }
+  })
+}
+
+generateColors();
+
+function checkLevel() {
+  if(hard === true) {
+    document.querySelectorAll("#container div")[3].classList.add("square");
+    document.querySelectorAll("#container div")[4].classList.add("square");
+    document.querySelectorAll("#container div")[5].classList.add("square");
+    generateColors();
+  } else {
+    document.querySelectorAll("#container div")[3].classList.remove("square");
+    document.querySelectorAll("#container div")[4].classList.remove("square");
+    document.querySelectorAll("#container div")[5].classList.remove("square");
+    generateColors();
   }
 }
 
-colorDisplay.innerHTML = square[x].style.background;
-
-restart.addEventListener("click", function() {
-  window.location.reload(true);
+//Toggle levels
+levelEasy.addEventListener("click", function() {
+  hard = false;
+  newGame();
+  levelEasy.classList.add("selected");
+  levelHard.classList.remove("selected");
+  checkLevel();
 });
+
+levelHard.addEventListener("click", function() {
+  hard = true;
+  newGame();
+  levelEasy.classList.remove("selected");
+  levelHard.classList.add("selected");
+  checkLevel();
+});
+
+// function win() {
+//   for(j = 0; j < square.length; j++) {
+//     square[j].style.background = square[x].style.background;
+//   }
+//   h1.style.background = square[x].style.background;
+//   message.textContent = "Correct!";
+// }
+//
+// function tryAgain() {
+//   this.style.background = "#232323"
+//   message.textContent = "Try again";
+// }
+
+// Generate Colors
+function generateColors() {
+  var square = document.querySelectorAll(".square");
+  var x = Math.floor(Math.random() * square.length);
+  for(i = 0; i < square.length; i++) {
+    square[i].style.background = "RGB(" + Math.floor(Math.random() * 255) + ", " + Math.floor(Math.random() * 255) + ", " + Math.floor(Math.random() * 255) + ")";
+  }
+
+  win = square[x].style.background;
+  colorDisplay.innerHTML = win;
+}
+
+//New Colors
+function newGame() {
+  h1.style.background = "steelblue";
+  message.textContent = "";
+  generateColors();
+}
+
+restart.addEventListener("click", newGame);
