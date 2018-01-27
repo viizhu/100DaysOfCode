@@ -11,15 +11,15 @@ var win = "";
 
 for(k = 0; k < div.length; k++) {
   div[k].addEventListener("click", function(){
-    if(this.style.background === win) {
+    if(this.style.backgroundColor === win) {
       var square = document.querySelectorAll(".square");
       for(j = 0; j < square.length; j++) {
-        square[j].style.background = win;
+        square[j].style.backgroundColor = win;
       }
-      h1.style.background = win;
+      h1.style.backgroundColor = win;
       message.textContent = "Correct!";
     } else {
-      this.style.background = "#232323"
+      this.style.backgroundColor = "#232323"
       message.textContent = "Try again";
     }
   })
@@ -60,14 +60,14 @@ levelHard.addEventListener("click", function() {
 
 // function win() {
 //   for(j = 0; j < square.length; j++) {
-//     square[j].style.background = square[x].style.background;
+//     square[j].style.backgroundColor = square[x].style.backgroundColor;
 //   }
-//   h1.style.background = square[x].style.background;
+//   h1.style.backgroundColor = square[x].style.backgroundColor;
 //   message.textContent = "Correct!";
 // }
 //
 // function tryAgain() {
-//   this.style.background = "#232323"
+//   this.style.backgroundColor = "#232323"
 //   message.textContent = "Try again";
 // }
 
@@ -76,16 +76,16 @@ function generateColors() {
   var square = document.querySelectorAll(".square");
   var x = Math.floor(Math.random() * square.length);
   for(i = 0; i < square.length; i++) {
-    square[i].style.background = "RGB(" + Math.floor(Math.random() * 255) + ", " + Math.floor(Math.random() * 255) + ", " + Math.floor(Math.random() * 255) + ")";
+    square[i].style.backgroundColor = "RGB(" + Math.floor(Math.random() * 255) + ", " + Math.floor(Math.random() * 255) + ", " + Math.floor(Math.random() * 255) + ")";
   }
 
-  win = square[x].style.background;
+  win = square[x].style.backgroundColor;
   colorDisplay.innerHTML = win;
 }
 
 //New Colors
 function newGame() {
-  h1.style.background = "steelblue";
+  h1.style.backgroundColor = "steelblue";
   message.textContent = "";
   generateColors();
 }
