@@ -118,3 +118,10 @@
 **Thoughts:** Completed the color game app with some help. Going to watch the solution tomorrow and see how he did it.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 18: January 26, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Watched the solution for the Color Game and edited my code a bit. As a note, I should make more comments in my code.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
