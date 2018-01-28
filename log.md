@@ -125,3 +125,10 @@
 **Thoughts:** Watched the solution for the Color Game and edited my code a bit. As a note, I should make more comments in my code.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 19: January 27, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Watched some of the jQuery classes.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
