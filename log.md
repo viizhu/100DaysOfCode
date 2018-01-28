@@ -132,3 +132,10 @@
 **Thoughts:** Watched some of the jQuery classes.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 20: January 28, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Completed all the jQuery classes. Also started the frameworks for the To Do List project.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
