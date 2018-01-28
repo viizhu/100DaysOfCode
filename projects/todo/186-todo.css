@@ -1,0 +1,29 @@
+body {
+  background: linear-gradient(to right, #2BC0E4, #EAECC6);
+  font-family: 'Roboto', sans-serif;
+}
+
+ul {
+  margin: 100px auto;
+  width: 30%;
+  background: #fff;
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 5px 10px;
+}
+
+li:nth-child(even) {
+  background: #F2F2F2;
+}
+
+#header {
+  background: #34649C;
+  text-transform: uppercase;
+  color: #ffffff;
+  padding: 10px;
+  letter-spacing: 1.2;
+  font-size: 1.5em;
+}
