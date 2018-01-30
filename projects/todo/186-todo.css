@@ -12,10 +12,27 @@ ul {
 }
 
 li {
-  padding: 5px 10px;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  align-items: center;
 }
 
 li:nth-child(even) {
+  background: #F2F2F2;
+}
+
+li#input {
+  padding: 0;
+  margin: 0;
+}
+
+input {
+  width: 100%;
+  margin: 0;
+  padding: 10px;
+  border: 0;
+  font: inherit;
   background: #F2F2F2;
 }
 
@@ -26,4 +43,23 @@ li:nth-child(even) {
   padding: 10px;
   letter-spacing: 1.2;
   font-size: 1.5em;
+  justify-content: space-between;
+}
+
+.delete {
+  padding: 0;
+  margin: 0;
+}
+
+.delButton {
+  background: #A42323;
+  color: #ffffff;
+  width: 5%;
+  margin: 0;
+  padding: 10px 0 10px 10px;
+  align-self: stretch;
+}
+
+.todo {
+  padding: 10px;
 }
