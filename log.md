@@ -139,3 +139,10 @@
 **Thoughts:** Completed all the jQuery classes. Also started the frameworks for the To Do List project.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 21: January 29, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Added more styling and sliding toggle jQuery to the font-awesome. Next is making all the buttons work.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
