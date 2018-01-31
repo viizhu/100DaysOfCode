@@ -3,12 +3,37 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-ul {
+#container {
+  width: 400px;
   margin: 100px auto;
-  width: 30%;
+}
+
+input {
+  width: 380px;
+  margin: 0;
+  padding: 10px;
+  border: 0;
+  font: inherit;
+  background: #F2F2F2;
+}
+
+h1 {
+  background: #34649C;
+  text-transform: uppercase;
+  color: #ffffff;
+  padding: 10px;
+  margin: 0;
+  letter-spacing: 1.2;
+  font-size: 1.5em;
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
   background: #fff;
   list-style-type: none;
   padding: 0;
+  margin: 0;
 }
 
 li {
@@ -22,35 +47,6 @@ li:nth-child(even) {
   background: #F2F2F2;
 }
 
-li#input {
-  padding: 0;
-  margin: 0;
-}
-
-input {
-  width: 100%;
-  margin: 0;
-  padding: 10px;
-  border: 0;
-  font: inherit;
-  background: #F2F2F2;
-}
-
-#header {
-  background: #34649C;
-  text-transform: uppercase;
-  color: #ffffff;
-  padding: 10px;
-  letter-spacing: 1.2;
-  font-size: 1.5em;
-  justify-content: space-between;
-}
-
-.delete {
-  padding: 0;
-  margin: 0;
-}
-
 .delButton {
   background: #A42323;
   color: #ffffff;
@@ -62,4 +58,9 @@ input {
 
 .todo {
   padding: 10px;
+}
+
+.done {
+  text-decoration: line-through;
+  color: #a8a8a8;
 }
