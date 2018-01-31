@@ -146,3 +146,10 @@
 **Thoughts:** Added more styling and sliding toggle jQuery to the font-awesome. Next is making all the buttons work.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 22: January 30, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Mostly completed the to do list. Just one minor error where the input toggle stops working after you insert new to do items. Will take a look and debug.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
