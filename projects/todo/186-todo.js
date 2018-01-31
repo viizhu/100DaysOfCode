@@ -1,17 +1,18 @@
 //Toggle add new to do input when clicking the +
 $("#addNew").on("click", function() {
   $("#input").slideToggle();
+
 });
 
 //When mouse enters LI, add delete button
 $("ul").on("mouseenter", "li", function(){
-  $(this).find(".delButton").toggle("slide", 1000);
+  // $(this).find(".delButton").toggle("slide", 1000);
   $(this).find(".delButton").attr("style", "display: block");
 });
 
 //When mouse leaves the LI, remove the delete button
 $("ul").on("mouseleave", "li", function(){
-  $(this).find(".delButton").slideToggle();
+  // $(this).find(".delButton").slideToggle();
   $(this).find(".delButton").attr("style", "display: none");
 });
 
@@ -26,7 +27,7 @@ $("input").keypress(function(event) {
 
 //When clicking on the trash can, remove that LI
 $("ul").on("click", "li .delButton", function(){
-  $(this).parent().toggle("slide", 1000);
+  // $(this).parent().toggle("slide", 1000);
   $(this).parent().remove();
 });
 
