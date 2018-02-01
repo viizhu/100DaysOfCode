@@ -28,7 +28,9 @@ $("input").keypress(function(event) {
 //When clicking on the trash can, remove that LI
 $("ul").on("click", "li .delButton", function(){
   // $(this).parent().toggle("slide", 1000);
-  $(this).parent().remove();
+  $(this).parent().fadeOut(500, function(){
+    $(this).remove();
+  });
 });
 
 //Click on the to do item will cross it out
