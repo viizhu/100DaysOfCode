@@ -150,6 +150,13 @@
 ### Day 22: January 30, 2018
 **Today's Progress:** Web Developer Bootcamp Course at Udemy
 
-**Thoughts:** Mostly completed the to do list. Just one minor error where the input toggle stops working after you insert new to do items. Will take a look and debug.
+**Thoughts:** Mostly completed the to do list. Just one minor error where the input toggle stops working after you insert new to do items. Will take a look and debug. (Edit: .toggle() is a jQuery UI function, so I removed that function altogether and everything works now!)
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 23: January 31, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Watched through how he did the to do list. He used CSS transition to make the delete buttons move, so that was fun to learn. I'd assumed that everything would be done with jQuery.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
