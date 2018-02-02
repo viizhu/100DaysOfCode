@@ -160,3 +160,10 @@
 **Thoughts:** Watched through how he did the to do list. He used CSS transition to make the delete buttons move, so that was fun to learn. I'd assumed that everything would be done with jQuery.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 24: February 1, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Learned about backend and stacks. Now onto installing the coding environment onto my computer.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
