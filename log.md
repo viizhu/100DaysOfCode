@@ -167,3 +167,10 @@
 **Thoughts:** Learned about backend and stacks. Now onto installing the coding environment onto my computer.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 25: February 2, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Set up local environment and learned about the command line.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
