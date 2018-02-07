@@ -195,3 +195,10 @@
 **Thoughts:** Did some Express exercises today! I've completed 232 of 353 items in the course. That means I only have 121 videos more to watch!
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 29: February 6, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Learned some EJS! (Embedded JavaScript)
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
