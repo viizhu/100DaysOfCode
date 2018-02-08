@@ -202,3 +202,10 @@
 **Thoughts:** Learned some EJS! (Embedded JavaScript)
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 30: February 7, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Finished up express and ejs. Learned how to do post routes and how to add header and footer templates and css files to pages!
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
