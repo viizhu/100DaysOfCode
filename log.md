@@ -216,3 +216,5 @@
 **Thoughts:** Learned about APIs! This was a really great lesson. I've used APIs before from freeCodeCamp but it was never quite explained very well, so I'm glad that he went through a lot of it here.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### BREAK; VACATION TO CHINA ###
