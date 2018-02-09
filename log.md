@@ -209,3 +209,10 @@
 **Thoughts:** Finished up express and ejs. Learned how to do post routes and how to add header and footer templates and css files to pages!
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 31: February 8, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Learned about APIs! This was a really great lesson. I've used APIs before from freeCodeCamp but it was never quite explained very well, so I'm glad that he went through a lot of it here.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
