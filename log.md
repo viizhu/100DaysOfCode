@@ -218,3 +218,10 @@
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
 
 ### BREAK; VACATION TO CHINA ###
+
+### Day 32: February 27, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Getting back into it after a trip to China! Started building some of the basics of the YelpCamp final project.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
