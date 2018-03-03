@@ -225,3 +225,10 @@
 **Thoughts:** Getting back into it after a trip to China! Started building some of the basics of the YelpCamp final project.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 33: March 2, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy -- YelpCamp Project
+
+**Thoughts:** Added the basic campgrounds view page and also add form. Right now everything is in an array, but the next lesson will be about databases. Working with Bootstrap, created some styling for the page and added a navbar.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
