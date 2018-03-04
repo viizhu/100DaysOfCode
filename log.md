@@ -232,3 +232,10 @@
 **Thoughts:** Added the basic campgrounds view page and also add form. Right now everything is in an array, but the next lesson will be about databases. Working with Bootstrap, created some styling for the page and added a navbar.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 34: March 3, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy -- YelpCamp Project
+
+**Thoughts:** Learning about databases, specifically starting on MongoDB
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
