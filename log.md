@@ -234,8 +234,15 @@
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
 
 ### Day 34: March 3, 2018
-**Today's Progress:** Web Developer Bootcamp Course at Udemy -- YelpCamp Project
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
 
 **Thoughts:** Learning about databases, specifically starting on MongoDB
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 35: March 4, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy -- YelpCamp Project
+
+**Thoughts:** Applied what I learned with MongoDB and Mongoose into YelpCamp app
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
