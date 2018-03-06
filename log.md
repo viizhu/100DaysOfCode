@@ -246,3 +246,10 @@
 **Thoughts:** Applied what I learned with MongoDB and Mongoose into YelpCamp app
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 36: March 5, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy -- YelpCamp Project
+
+**Thoughts:** More MongoDB stuff. Learning about RESTful routes and showing individual campgrounds
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
