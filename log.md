@@ -253,3 +253,10 @@
 **Thoughts:** More MongoDB stuff. Learning about RESTful routes and showing individual campgrounds
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 37: March 6, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Learning about the 7 RESTful routes by creating a small blog. Also played around with Semantic UI!
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
