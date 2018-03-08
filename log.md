@@ -260,3 +260,10 @@
 **Thoughts:** Learning about the 7 RESTful routes by creating a small blog. Also played around with Semantic UI!
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 38: March 7, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Completed the rest of the blog app! Learned a lot of nifty things about RESTful routes. Hopefully I don't end up forgetting everything.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
