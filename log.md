@@ -274,3 +274,10 @@
 **Thoughts:** Short day because I went to a Women Who Code ATL meetup (Those count as coding-adjacent, right?) But I did take some time to do a bit more MongoDB stuff.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 40: March 9, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy -- YelpCamp Project
+
+**Thoughts:** Learning about data associations. Started some information on refactoring and seeding as well.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
