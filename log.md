@@ -281,3 +281,10 @@
 **Thoughts:** Learning about data associations. Started some information on refactoring and seeding as well.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 41: March 10, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy -- YelpCamp Project
+
+**Thoughts:** More work with comment models, creating new comments, nesting routes, and then finally some Bootstrap styling.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
