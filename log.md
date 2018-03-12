@@ -295,3 +295,12 @@
 **Thoughts:** Learned about user authentication by using the Passport package
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 43: March 12, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy -- YelpCamp Project
+
+**Thoughts:** More practice with authentication using the Passport package by adding it to Yelpcamp. Also learned how to check if currentUser is empty, and creating middleware that applies to every single route.
+
+Also learned some refactoring to help shorten the app.js
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
