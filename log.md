@@ -288,3 +288,10 @@
 **Thoughts:** More work with comment models, creating new comments, nesting routes, and then finally some Bootstrap styling.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 42: March 11, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy
+
+**Thoughts:** Learned about user authentication by using the Passport package
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
