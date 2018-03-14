@@ -311,3 +311,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Worked on user association for posting comments and new campgrounds.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 45: March 14, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy -- YelpCamp Project
+
+**Thoughts:** Worked on user association for creating campgrounds, and then authorization for editing/deleting campgrounds. (If you're not the user that created the campground, you can't edit or delete it!) Tomorrow will be the same but for comments. I'm hoping that I will be able to try it out on my own, which is why I'm leaving it for the next day.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
