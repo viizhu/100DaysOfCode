@@ -325,3 +325,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Worked on editing and deleting comments. I started the groundwork, but it's a lot harder than doing it for campgrounds.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 47: March 17, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy -- YelpCamp Project
+
+**Thoughts:** Editing and deleting comments, and then authorization to make sure you can only edit/delete your own! :) Also did some refactoring for middlewares.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
