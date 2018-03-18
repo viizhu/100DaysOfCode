@@ -332,3 +332,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Editing and deleting comments, and then authorization to make sure you can only edit/delete your own! :) Also did some refactoring for middlewares.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 48: March 18, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy -- YelpCamp Project
+
+**Thoughts:** More YelpCamp UI improvements, including flash messages for error and success, the landing page, and then dynamic pricing.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
