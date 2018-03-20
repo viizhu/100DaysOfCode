@@ -339,3 +339,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** More YelpCamp UI improvements, including flash messages for error and success, the landing page, and then dynamic pricing.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 49: March 19, 2018
+**Today's Progress:** Web Developer Bootcamp Course at Udemy -- YelpCamp Project
+
+**Thoughts:** Learning about deploying using Heroku and MLab. Not quite sure how to deploy using other platforms, like my own server. But for now, sample projects can be deployed :)
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
