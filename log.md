@@ -346,3 +346,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Learning about deploying using Heroku and MLab. Not quite sure how to deploy using other platforms, like my own server. But for now, sample projects can be deployed :)
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 50: March 21, 2018
+**Today's Progress:** Listened to Object Oriented Ruby lecture from William
+
+**Thoughts:** Helped William practice for his lecture by learning some Ruby :)
+
+**Link to work:** none
