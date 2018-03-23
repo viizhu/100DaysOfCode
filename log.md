@@ -353,3 +353,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Helped William practice for his lecture by learning some Ruby :)
 
 **Link to work:** none
+
+### Day 51: March 22, 2018
+**Today's Progress:** Updated my portfolio!
+
+**Thoughts:** Took some suggestions from my mentor Cheryl finally. I updated my about me page, added a contact form, and made it so that the navigation shows which page you're currently on.
+
+**Link to work:** [VickyZhu.Com](http://www.vickyzhu.com)
