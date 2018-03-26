@@ -360,3 +360,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Took some suggestions from my mentor Cheryl finally. I updated my about me page, added a contact form, and made it so that the navigation shows which page you're currently on.
 
 **Link to work:** [VickyZhu.Com](http://www.vickyzhu.com)
+
+### Day 52: March 26, 2018
+**Today's Progress:** Updated my portfolio!
+
+**Thoughts:** Some more work updating the portfolio
+
+**Link to work:** [VickyZhu.Com](http://www.vickyzhu.com)
