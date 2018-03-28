@@ -367,3 +367,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Some more work updating the portfolio
 
 **Link to work:** [VickyZhu.Com](http://www.vickyzhu.com)
+
+### Day 53: March 27, 2018
+**Today's Progress:** Updated my portfolio!
+
+**Thoughts:** Finished up my portfolio. Next step is to create some more projects so I have more to show.
+
+**Link to work:** [VickyZhu.Com](http://www.vickyzhu.com)
