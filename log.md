@@ -374,3 +374,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Finished up my portfolio. Next step is to create some more projects so I have more to show.
 
 **Link to work:** [VickyZhu.Com](http://www.vickyzhu.com)
+
+### Day 54: March 28, 2018
+**Today's Progress:** YelpCamp Project
+
+**Thoughts:** Adding on to YelpCamp on my own. Read up on the date function in MongoDB
+
+**Link to work:** [YelpCamp](https://thawing-harbor-82457.herokuapp.com)
