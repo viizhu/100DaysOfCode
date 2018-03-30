@@ -381,3 +381,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Adding on to YelpCamp on my own. Read up on the date function in MongoDB
 
 **Link to work:** [YelpCamp](https://thawing-harbor-82457.herokuapp.com)
+
+### Day 55: March 30, 2018
+**Today's Progress:** Advanced JavaScript Workshop
+
+**Thoughts:** Did some preparation for an advanced JS Workshop that I'm attending tomorrow.
+
+**Link to work:** none
