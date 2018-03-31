@@ -388,3 +388,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Did some preparation for an advanced JS Workshop that I'm attending tomorrow.
 
 **Link to work:** none
+
+### Day 56: March 31, 2018
+**Today's Progress:** Advanced JavaScript Workshop
+
+**Thoughts:** Taking the Advanced JavaScript Workshop with Jennifer Bland
+
+**Link to work:** [WWC Meetup](https://www.meetup.com/Women-Who-Code-Atlanta/events/247626913/)
