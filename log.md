@@ -395,3 +395,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Taking the Advanced JavaScript Workshop with Jennifer Bland
 
 **Link to work:** [WWC Meetup](https://www.meetup.com/Women-Who-Code-Atlanta/events/247626913/)
+
+### Day 57: April 3, 2018
+**Today's Progress:** YelpCamp Project
+
+**Thoughts:** Add dynamic date to campground and comments and updated login and register UI
+
+**Link to work:** [YelpCamp](https://thawing-harbor-82457.herokuapp.com)
