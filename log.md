@@ -409,3 +409,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Read a few chapters of Girls Who Code book.
 
 **Link to work:** none
+
+### Day 59: April 8, 2018
+**Today's Progress:** Web Developer Bootcamp
+
+**Thoughts:** YelpCamp: Updated the DatabaseURL so that it will use mlab for Heroku and local for when updating the local. And then moved on to the last section of the Web Developer Bootcamp, which is the advanced JavaScript section.
+
+**Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
