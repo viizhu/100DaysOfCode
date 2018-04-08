@@ -402,3 +402,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Add dynamic date to campground and comments and updated login and register UI
 
 **Link to work:** [YelpCamp](https://thawing-harbor-82457.herokuapp.com)
+
+### Day 58: April 7, 2018
+**Today's Progress:** Girls Who Code
+
+**Thoughts:** Read a few chapters of Girls Who Code book.
+
+**Link to work:** none
