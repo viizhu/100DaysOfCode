@@ -416,3 +416,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** YelpCamp: Updated the DatabaseURL so that it will use mlab for Heroku and local for when updating the local. And then moved on to the last section of the Web Developer Bootcamp, which is the advanced JavaScript section.
 
 **Link to work:** [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 60: April 9, 2018
+**Today's Progress:** React.js Bootcamp
+
+**Thoughts:** Day One of Tyler McGinnis' React.js Bootcamp
+
+**Link to work:** [Tyler McGinnis](https://tylermcginnis.com/)
