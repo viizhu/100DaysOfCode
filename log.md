@@ -424,9 +424,16 @@ Also learned some refactoring to help shorten the app.js
 
 **Link to work:** [Tyler McGinnis](https://tylermcginnis.com/)
 
-### Day 61: April 1, 2018
+### Day 61: April 10, 2018
 **Today's Progress:** React.js Bootcamp
 
 **Thoughts:** Didn't get through the entire day one of the React.js Bootcamp, so going to finish the end of Day One and then spend some time doing the exercises.
+
+**Link to work:** [Tyler McGinnis](https://tylermcginnis.com/)
+
+### Day 62: April 15, 2018
+**Today's Progress:** React.js Bootcamp
+
+**Thoughts:** Continuing with the React.js Bootcamp.
 
 **Link to work:** [Tyler McGinnis](https://tylermcginnis.com/)
