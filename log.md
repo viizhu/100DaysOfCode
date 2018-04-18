@@ -437,3 +437,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Continuing with the React.js Bootcamp.
 
 **Link to work:** [Tyler McGinnis](https://tylermcginnis.com/)
+
+### Day 63: April 17, 2018
+**Today's Progress** Learning ES6
+
+**Thoughts:** A bit delayed, but finally reviewing all the changes made in ES6. Next up, I think I'll go back to JavaScript30 and try it out now that I'm better at JS
+
+**Link to work:** none
