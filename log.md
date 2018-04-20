@@ -443,4 +443,11 @@ Also learned some refactoring to help shorten the app.js
 
 **Thoughts:** A bit delayed, but finally reviewing all the changes made in ES6. Next up, I think I'll go back to JavaScript30 and try it out now that I'm better at JS
 
-**Link to work:** none
+**Link to work:** [ES2015 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
+
+### Day 64: April 19, 2018
+**Today's Progress** JavaScript30
+
+**Thoughts:** Restarting JavaScript30 from the beginning now that I have a better understanding of JavaScript
+
+**Link to work:** [JavaScript30 Github](https://github.com/viizhu/javascript30)
