@@ -451,3 +451,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Restarting JavaScript30 from the beginning now that I have a better understanding of JavaScript
 
 **Link to work:** [JavaScript30 Github](https://github.com/viizhu/javascript30)
+
+### Day 65: April 21, 2018
+**Today's Progress** JavaScript30
+
+**Thoughts:** More JavaScript30 work
+
+**Link to work:** [JavaScript30 Github](https://github.com/viizhu/javascript30)
