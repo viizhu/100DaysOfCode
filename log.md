@@ -458,3 +458,17 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** More JavaScript30 work
 
 **Link to work:** [JavaScript30 Github](https://github.com/viizhu/javascript30)
+
+### Day 66: April 23, 2018
+**Today's Progress** Building Scalable Applications using React (React Web)
+
+**Thoughts:** Went to a talk today about React. 
+
+**Link to work:** none
+
+### Day 67: April 25, 2018
+**Today's Progress** Rookie Mistakes as a Junior Developer
+
+**Thoughts:** Another meetup for today!
+
+**Link to work:** none
