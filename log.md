@@ -462,7 +462,7 @@ Also learned some refactoring to help shorten the app.js
 ### Day 66: April 23, 2018
 **Today's Progress** Building Scalable Applications using React (React Web)
 
-**Thoughts:** Went to a talk today about React. 
+**Thoughts:** Went to a talk today about React.
 
 **Link to work:** none
 
@@ -470,5 +470,12 @@ Also learned some refactoring to help shorten the app.js
 **Today's Progress** Rookie Mistakes as a Junior Developer
 
 **Thoughts:** Another meetup for today!
+
+**Link to work:** none
+
+### Day 68: April 26, 2018
+**Today's Progress** Playing around with JavaScript
+
+**Thoughts:** I feel like I'm spreading myself too thin and trying too many things. So I think it may be best to focus on one project and get it done. I'd like to continue the Hackathon project that I started last year at the Women Who Code Hackathon. However, that calendar was written in Angular, which I wasn't that familiar with. It may be best to work with what I already know rather than try to learn something completely new. So right now I'm just trying to write out a simple calendar from scratch using vanilla JavaScript.
 
 **Link to work:** none
