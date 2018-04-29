@@ -486,3 +486,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** More playing around with creating a calendar using vanilla JavaScript.
 
 **Link to work:** none
+
+### Day 70: April 28, 2018
+**Today's Progress** Learned about JavaScript Classes
+
+**Thoughts:** Better understanding of what classes are and when to use them.
+
+**Link to work:** none
