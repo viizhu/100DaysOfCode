@@ -493,3 +493,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Better understanding of what classes are and when to use them.
 
 **Link to work:** none
+
+### Day 71: April 29, 2018
+**Today's Progress** Playing around with JavaScript
+
+**Thoughts:** Adding my new understanding of Classes to the calendar app
+
+**Link to work:** none
