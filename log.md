@@ -500,3 +500,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Adding my new understanding of Classes to the calendar app
 
 **Link to work:** none
+
+### Day 72: April 30, 2018
+**Today's Progress** Playing around with JavaScript
+
+**Thoughts:** Almost have one month of the calendar running, next step is to give it the ability to change months and years.
+
+**Link to work:** none
