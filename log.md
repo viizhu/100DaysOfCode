@@ -507,3 +507,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Almost have one month of the calendar running, next step is to give it the ability to change months and years.
 
 **Link to work:** none
+
+### Day 73: May 1, 2018
+**Today's Progress** Playing around with JavaScript
+
+**Thoughts:** Finished up the calendar base, did some styling. Next I'm going to take it and try to turn it into a meal planner!
+
+**Link to work:** none
