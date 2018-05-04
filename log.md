@@ -518,6 +518,6 @@ Also learned some refactoring to help shorten the app.js
 ### Day 74: May 4, 2018
 **Today's Progress** Firebase
 
-**Thoughts:** Learning about Firebase by creating a messaging app using their tutorial
+**Thoughts:** Learning about Firebase by creating a messaging app using their tutorialD
 
 **Link to work:** none
