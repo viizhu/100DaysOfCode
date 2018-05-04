@@ -514,3 +514,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Finished up the calendar base, did some styling. Next I'm going to take it and try to turn it into a meal planner!
 
 **Link to work:** none
+
+### Day 74: May 4, 2018
+**Today's Progress** Firebase
+
+**Thoughts:** Learning about Firebase by creating a messaging app using their tutorial
+
+**Link to work:** none
