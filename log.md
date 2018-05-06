@@ -521,3 +521,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Learning about Firebase by creating a messaging app using their tutorialD
 
 **Link to work:** none
+
+### Day 75: May 6, 2018
+**Today's Progress** JSON + Menuize app
+
+**Thoughts:** Instead of starting off with a database, I'm learning how to use JSON files for static recipes. Also trying to play around with JavaScript ways of dragging and dropping.
+
+**Link to work:** none
