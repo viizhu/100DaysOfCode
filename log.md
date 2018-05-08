@@ -528,3 +528,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Instead of starting off with a database, I'm learning how to use JSON files for static recipes. Also trying to play around with JavaScript ways of dragging and dropping.
 
 **Link to work:** none
+
+### Day 76: May 7, 2018
+**Today's Progress** JSON + Menuize app
+
+**Thoughts:** More working with Json files. Learning how to link them and use them locally.
+
+**Link to work:** none
