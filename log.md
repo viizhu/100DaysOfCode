@@ -535,3 +535,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** More working with Json files. Learning how to link them and use them locally.
 
 **Link to work:** none
+
+### Day 77: May 8, 2018
+**Today's Progress** JSON + Menuize app
+
+**Thoughts:** Figured out how to load Json files locally by using a node server. Now working on showing json information on the calendar
+
+**Link to work:** none
