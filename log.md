@@ -542,3 +542,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Figured out how to load Json files locally by using a node server. Now working on showing json information on the calendar
 
 **Link to work:** none
+
+### Day 78: May 10, 2018
+**Today's Progress** JSON + Menuize app
+
+**Thoughts:** More working with json
+
+**Link to work:** none
