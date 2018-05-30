@@ -556,3 +556,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** I've been stopping and starting so many things. I feel bad about it, but I feel like the reason may be routed in the fact that I'm not excited about any of the projects. This time I'm switching to a project management application, and I am a bit more excited about this since it is related to my current job and something I would actually use.
 
 **Link to work:** [Github Repo](https://github.com/viizhu/project-management)
+
+### Day 80: May 30, 2018
+**Today's Progress** Project Management app: NodeJS + MongoDB
+
+**Thoughts:** Mostly UI work
+
+**Link to work:** [Github Repo](https://github.com/viizhu/project-management)
