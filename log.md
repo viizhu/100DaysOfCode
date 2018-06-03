@@ -570,3 +570,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** More UI work.
 
 **Link to work:** [Github Repo](https://github.com/viizhu/project-management)
+
+### Day 82: June 3, 2018
+**Today's Progress** Project Management app: NodeJS + MongoDB
+
+**Thoughts:** Now trying to remember how to use MongoDB. Currently just working with a very small shell just to play around with how things work first.
+
+**Link to work:** [Github Repo](https://github.com/viizhu/project-management)
