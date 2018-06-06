@@ -584,3 +584,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Had some trouble connecting to mongoDB but got it to work. Next step will be to do the dynamic stuff.
 
 **Link to work:** [Github Repo](https://github.com/viizhu/project-management)
+
+### Day 84: June 6, 2018
+**Today's Progress** Meet up
+
+**Thoughts:** Taking a break from physical coding by attending a meetup. Topic: leveling up as a junior developer
+
+**Link to work:** none
