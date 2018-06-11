@@ -592,14 +592,21 @@ Also learned some refactoring to help shorten the app.js
 
 **Link to work:** none
 
-### Day 85: June 10, 2018
+### Day 85: June 8, 2018
+**Today's Progress** Project Management app: NodeJS + MongoDB
+
+**Thoughts:** Finally got the create route working. Struggled with getting the dates to show up with the correct time zones, but finally got it after much Google searching.
+
+**Link to work:** [Github Repo](https://github.com/viizhu/project-management)
+
+### Day 86: June 10, 2018
 **Today's Progress** Meet Up
 
 **Thoughts:** Another meet up today, this time for career advice and how to break into the tech community
 
 **Link to work:** none
 
-### Day 86: June 11, 2018
+### Day 87: June 11, 2018
 **Today's Progress** freeCodeCamp
 
 **Thoughts:** Because freeCodeCamp was recently revamped with a lot of new stuff, I'm going back to complete the new things and hopefully learn a lot more :) Also getting a certificate from them would be really helpful and a good thing to put on my resume.
