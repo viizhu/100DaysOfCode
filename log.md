@@ -591,3 +591,17 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Taking a break from physical coding by attending a meetup. Topic: leveling up as a junior developer
 
 **Link to work:** none
+
+### Day 85: June 10, 2018
+**Today's Progress** Meet Up
+
+**Thoughts:** Another meet up today, this time for career advice and how to break into the tech community
+
+**Link to work:** none
+
+### Day 86: June 11, 2018
+**Today's Progress** freeCodeCamp
+
+**Thoughts:** Because freeCodeCamp was recently revamped with a lot of new stuff, I'm going back to complete the new things and hopefully learn a lot more :) Also getting a certificate from them would be really helpful and a good thing to put on my resume.
+
+**Link to work:** [freeCodeCamp](freecodecamp.org)
