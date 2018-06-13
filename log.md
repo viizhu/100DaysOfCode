@@ -612,3 +612,17 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Because freeCodeCamp was recently revamped with a lot of new stuff, I'm going back to complete the new things and hopefully learn a lot more :) Also getting a certificate from them would be really helpful and a good thing to put on my resume.
 
 **Link to work:** [freeCodeCamp](freecodecamp.org)
+
+### Day 88: June 12, 2018
+**Today's Progress** freeCodeCamp
+
+**Thoughts:** Went through the Applied Visual Design section, which is a new section. Also finished a lot of previous lessons in the HTML/CSS section that were added after the revamp
+
+**Link to work:** [freeCodeCamp](freecodecamp.org)
+
+### Day 89: June 13, 2018
+**Today's Progress** freeCodeCamp
+
+**Thoughts:** Worked through the Applied Accessibility section. This is really good information to have!
+
+**Link to work:** [freeCodeCamp](freecodecamp.org)
