@@ -626,3 +626,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Worked through the Applied Accessibility section. This is really good information to have!
 
 **Link to work:** [freeCodeCamp](freecodecamp.org)
+
+### Day 90: June 14, 2018
+**Today's Progress** freeCodeCamp
+
+**Thoughts:** Got a lot more done today than I originally planned! Finished: Responsive Web Design Principles, CSS Flexbox, CSS Grid, and the first project, the Tribute page.
+
+**Link to work:** [freeCodeCamp](freecodecamp.org)
