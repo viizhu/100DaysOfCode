@@ -633,3 +633,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Got a lot more done today than I originally planned! Finished: Responsive Web Design Principles, CSS Flexbox, CSS Grid, and the first project, the Tribute page.
 
 **Link to work:** [freeCodeCamp](freecodecamp.org)
+
+### Day 91: June 19, 2018
+**Today's Progress** freeCodeCamp
+
+**Thoughts:** Finished the Build a Survey Form project. Got started with Build a Product Landing Page project
+
+**Link to work:** [freeCodeCamp](freecodecamp.org)
