@@ -640,3 +640,17 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Finished the Build a Survey Form project. Got started with Build a Product Landing Page project
 
 **Link to work:** [freeCodeCamp](freecodecamp.org)
+
+### Day 92: June 21, 2018
+**Today's Progress** WeRise Tech Conference
+
+**Thoughts:** Today I'm doing the full day Vue Vixen workshop
+
+**Link to work:** [Vue Vixen](https://vuevixens.github.io/docs/workshop/ch1.html)
+
+### Day 93: June 22, 2018
+**Today's Progress** WeRise Tech Conference
+
+**Thoughts:** Just going to talks all day!
+
+**Link to work:** [We Rise Tech](http://www.werise.tech)
