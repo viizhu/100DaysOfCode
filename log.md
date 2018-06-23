@@ -654,3 +654,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Just going to talks all day!
 
 **Link to work:** [We Rise Tech](http://www.werise.tech)
+
+### Day 94: June 23, 2018
+**Today's Progress** Ruby
+
+**Thoughts:** Learning Ruby from RubyMonk
+
+**Link to work:** [RubyMonk](http://rubymonk.com/)
