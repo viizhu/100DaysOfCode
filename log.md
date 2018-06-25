@@ -668,3 +668,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Completed Ruby Primer on RubyMonk!
 
 **Link to work:** [RubyMonk](http://rubymonk.com/)
+
+### Day 96: June 25, 2018
+**Today's Progress** Ruby
+
+**Thoughts:** Moving on to Ruby Primer: Ascent for RubyMonk. Also trying out some simple codewars problems.
+
+**Link to work:** [RubyMonk](http://rubymonk.com/)
