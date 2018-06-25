@@ -661,3 +661,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Learning Ruby from RubyMonk
 
 **Link to work:** [RubyMonk](http://rubymonk.com/)
+
+### Day 95: June 24, 2018
+**Today's Progress** Ruby
+
+**Thoughts:** Completed Ruby Primer on RubyMonk!
+
+**Link to work:** [RubyMonk](http://rubymonk.com/)
