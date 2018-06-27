@@ -675,3 +675,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Moving on to Ruby Primer: Ascent for RubyMonk. Also trying out some simple codewars problems.
 
 **Link to work:** [RubyMonk](http://rubymonk.com/)
+
+### Day 97: June 26, 2018
+**Today's Progress** Tic Tac Toe
+
+**Thoughts:** Pausing from Ruby to go back to JavaScript and attempt a tic tac toe game.
+
+**Link to work:** none
