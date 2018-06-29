@@ -682,3 +682,17 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts:** Pausing from Ruby to go back to JavaScript and attempt a tic tac toe game.
 
 **Link to work:** none
+
+### Day 98: June 27, 2018
+**Today's Progress** Tic Tac Toe
+
+**Thoughts:** Finished Tic Tac Toe game!
+
+**Link to work:** none
+
+### Day 99: June 29, 2018
+**Today's Progress** Coding Challenge for CallRail Apprenticeship
+
+**Thoughts** Starting off my coding challenge for CallRail Apprenticeship
+
+**Link to work:** none
