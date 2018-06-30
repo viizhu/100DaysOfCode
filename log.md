@@ -696,3 +696,10 @@ Also learned some refactoring to help shorten the app.js
 **Thoughts** Starting off my coding challenge for CallRail Apprenticeship
 
 **Link to work:** none
+
+### Day 100: June 30, 2018
+**Today's Progress** Coding Challenge for CallRail Apprenticeship
+
+**Thoughts** Ending 100 Days of Code round 1(.5?) with completing my first code challenge! :)
+
+**Link to work:** none
